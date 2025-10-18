@@ -34,4 +34,4 @@ Built and maintained by **Md Rakibul Islam Rakib**, a passionate developer with 
 
 ---
 
-### 🙌 Thank you for visiting this repository!
+### Thank you for visiting this repository!
